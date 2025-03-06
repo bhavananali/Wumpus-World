@@ -79,8 +79,6 @@ Gold Found! Exiting.
 ## 👩‍💻 Author
 **Nali Bhavana**  
 - MTech 1st Year, IIT Bhubaneswar  
-- [LinkedIn](https://www.linkedin.com/in/nali-bhavana)  
-- 24ai06013@iitbbs.ac.in
 
 ---
 
